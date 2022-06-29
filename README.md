@@ -1,5 +1,5 @@
 # Livro de Receitas :book:
- - ingrediente 1
+ - Receita 1
  
 
 
